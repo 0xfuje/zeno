@@ -1,5 +1,5 @@
 # Zeno
-### A crypto dashboard design for the Codeless Conduct Hackathon
+### A crypto dashboard design inspired by Zapper and DeBank
 
 👨‍💻 Part of the Codeless Conduct Hackathon - Open Track Design bounty
 
